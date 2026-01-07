@@ -10,9 +10,10 @@ body {
 .header {
   background-color: #011e29;
   color: white;
-  text-align: center;
+  text-align: center !important;
   padding: 20px;
 }
+
 
 /* Layout Container */
 .container {
@@ -48,7 +49,7 @@ body {
   padding: 20px;
   width: 20%;
   border-radius: 15px;
-  text-align: center;
+  text-align: center !important;
 }
 
 .pictorial-news-section img {
