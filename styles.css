@@ -10,7 +10,6 @@ body {
 .header {
   background-color: #011e29;
   color: white;
-  text-align: center !important;
   padding: 20px;
 }
 
@@ -49,7 +48,6 @@ body {
   padding: 20px;
   width: 20%;
   border-radius: 15px;
-  text-align: center !important;
 }
 
 .pictorial-news-section img {
